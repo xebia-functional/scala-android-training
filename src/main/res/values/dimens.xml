@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_default">12dp</dimen>
+    <dimen name="size_content_age">52dp</dimen>
+    <dimen name="font_size_age">18sp</dimen>
+    <dimen name="font_size_name">16sp</dimen>
+</resources>

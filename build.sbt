@@ -32,3 +32,8 @@ useProguard in Android := true
 proguardOptions in Android ++= Seq(
   "-ignorewarnings",
   "-keep class scala.Dynamic")
+
+libraryDependencies ++= Seq(
+  aar("com.android.support" % "appcompat-v7" % "22.1.1"),
+  aar("com.android.support" % "recyclerview-v7" % "22.1.1")
+)

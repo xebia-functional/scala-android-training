@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_less_18">#FF9800</color>
+    <color name="background_less_30">#F44336</color>
+    <color name="background_less_50">#9C27B0</color>
+    <color name="background_less_80">#2196F3</color>
+    <color name="background_others">#673AB7</color>
+
+    <color name="text_age">#ffffff</color>
+
+    <color name="background_loading">#ff363636</color>
+    <color name="text_loading">#ffd8d8d8</color>
+
+</resources>

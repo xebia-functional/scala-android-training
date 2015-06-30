@@ -17,5 +17,8 @@
 
 <resources>
     <string name="app_name">Scala Training</string>
-    <string name="hello_world">Hello World!</string>
+
+    <string name="no_items">No items yet. Add new items from toolbar</string>
+    <string name="error">Upp... Houston, We\'ve Got a Problem</string>
+    <string name="downloading">Downloading...</string>
 </resources>
