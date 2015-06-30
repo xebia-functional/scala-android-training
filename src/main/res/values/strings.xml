@@ -21,4 +21,5 @@
     <string name="no_items">No items yet. Add new items from toolbar</string>
     <string name="error">Upp... Houston, We\'ve Got a Problem</string>
     <string name="downloading">Downloading...</string>
+    <string name="add">Add</string>
 </resources>
