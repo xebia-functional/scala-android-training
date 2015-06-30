@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_read_name">https://www.random.org/strings/?num=1&amp;len=16&amp;loweralpha=on&amp;unique=on&amp;format=plain&amp;rnd=new</string>
+    <string name="api_read_age">https://www.random.org/integers/?num=1&amp;min=1&amp;max=100&amp;col=5&amp;base=10&amp;format=plain&amp;rnd=new</string>
+</resources>
